@@ -18,7 +18,7 @@ The Car Rental System is a Java-based application that allows users to rent and 
 To run this project on your local machine, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/your-username/car-rental-system.git
+git clone https://github.com/issacsandy/car-rental-system.git
 
 2.Navigate to the project directory:
 cd car-rental-system
